@@ -5,9 +5,9 @@ This repository contains a simple yet engaging Tic Tac Toe game built using Kotl
 ## ScreenShots 
 
 <p float="left">
-  <img src="screenShots/screen1.jpg" width="33%" />
-  <img src="screenShots/screen2.jpg" width="33%" />
-  <img src="screenShots/screen3.jpg" width="33%" />
+  <img src="screenShots/screen1.jpg" width="25%" />
+  <img src="screenShots/screen2.jpg" width="25%" />
+  <img src="screenShots/screen3.jpg" width="25%" />
 </p>
 
 
